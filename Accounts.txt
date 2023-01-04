@@ -1,0 +1,33 @@
+£££
+Current Account
+David Smith
+12-34-56
+987654321
+1000000
+Brunel Bank
+3.2
+2022-04-21
+200
+Nil Condition
+100000
+£££
+ISA Account
+David Smith
+87-34-79
+123456789
+5000
+Brunel Bank
+5.0
+2022-04-21
+20000
+8000
+£££
+Savings Account
+David Smith
+43-67-89
+98765689
+20000000
+Brunel Bank
+7.5
+2022-09-11
+20000
