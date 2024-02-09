@@ -29,7 +29,7 @@ public class IAddress {
     private String Country;
     
     public IAddress(){
-        // This is to creat blank spaces for the attributes:
+        // This is to create blank spaces for the attributes:
         Name = "";
         Street = "";
         HouseNo = 0;
